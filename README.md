@@ -27,7 +27,8 @@ Click <kbd>Next</kbd>
 
 On the Add Permissions page, search for and select `AmazonSSMManagedInstanceCore`
 
-![Untitled](images/Untitled%201.png)
+<img width="619" alt="Untitled 1" src="https://github.com/Samikhan34177/AWS-system-manager/assets/114461462/77712b65-b72d-4364-ab6d-79614fbb7016">
+
 
 Click <kbd>Next</kbd>
 
