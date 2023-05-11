@@ -44,15 +44,16 @@ Head to the EC2 console: [https://ap-southeast-4.console.aws.amazon.com/ec2/home
 
 Go to *Instances* and click <kbd>Launch instances</kbd>
 
-![Untitled](images/Untitled%202.png)
+![Untitled 2](https://github.com/Samikhan34177/AWS-system-manager/assets/114461462/faef38cf-ffaf-4020-a6ec-01ed4433b5ad)
+
 
 Set the *Name* to “ubuntu”
 
-![Untitled](images/Untitled%203.png)
+<img width="564" alt="Untitled 3" src="https://github.com/Samikhan34177/AWS-system-manager/assets/114461462/0448eb9d-b6a4-45fd-9ac0-d5c6fc9160dc">
 
 Under *Application and OS Images* select “Ubuntu”
 
-![Untitled](images/Untitled%204.png)
+![Untitled 4](https://github.com/Samikhan34177/AWS-system-manager/assets/114461462/54a3cb9d-f8d3-4dbc-a96f-8c2e931f0e11)
 
 Click the dropdown menu and select `Ubuntu Server 20.04 LTS (HVM)`
 
