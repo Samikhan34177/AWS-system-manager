@@ -20,7 +20,8 @@ Go to Roles and click on <kbd>Create role</kbd>
 
 Leave “AWS service” selected and choose “EC2”
 
-![Untitled](images/Untitled.png)
+![Untitled](https://github.com/Samikhan34177/AWS-system-manager/assets/114461462/75d6ff24-efae-4420-8ec6-8f1dcf0c0f6b)
+
 
 Click <kbd>Next</kbd>
 
